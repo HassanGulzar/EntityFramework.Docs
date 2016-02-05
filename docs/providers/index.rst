@@ -10,4 +10,5 @@ Database Providers
     sqlite/index
     sql-compact/index
     npgsql/index
+    ibm-db2/index
     in-memory/index
